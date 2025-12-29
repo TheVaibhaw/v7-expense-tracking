@@ -1,0 +1,10 @@
+[
+  { "id": "food", "name": "Food", "color": "hsl(var(--chart-1))" },
+  { "id": "transport", "name": "Transport", "color": "hsl(var(--chart-2))" },
+  { "id": "rent", "name": "Rent", "color": "hsl(var(--chart-3))" },
+  { "id": "shopping", "name": "Shopping", "color": "hsl(var(--chart-4))" },
+  { "id": "entertainment", "name": "Entertainment", "color": "hsl(var(--chart-5))" },
+  { "id": "health", "name": "Health", "color": "hsl(210, 70%, 55%)" },
+  { "id": "utilities", "name": "Utilities", "color": "hsl(40, 70%, 60%)" },
+  { "id": "other", "name": "Other", "color": "hsl(0, 0%, 70%)" }
+]

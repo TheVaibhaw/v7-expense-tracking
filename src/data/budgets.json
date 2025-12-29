@@ -1,0 +1,10 @@
+[
+  { "id": "b1", "categoryId": "food", "limit": 500, "month": "2024-07" },
+  { "id": "b2", "categoryId": "transport", "limit": 150, "month": "2024-07" },
+  { "id": "b3", "categoryId": "rent", "limit": 1500, "month": "2024-07" },
+  { "id": "b4", "categoryId": "shopping", "limit": 300, "month": "2024-07" },
+  { "id": "b5", "categoryId": "entertainment", "limit": 200, "month": "2024-07" },
+  { "id": "b6", "categoryId": "health", "limit": 250, "month": "2024-07" },
+  { "id": "b7", "categoryId": "utilities", "limit": 180, "month": "2024-07" },
+  { "id": "b8", "categoryId": "other", "limit": 100, "month": "2024-07" }
+]
