@@ -1,7 +1,7 @@
 # **App Name**: ZenFlow
  
 ## Core Features:
-
+  
 - Dashboard Overview: Presents a clear, card-based view of total income, expenses, remaining budget, and top spending category.
 - Spending Categories Management: Allows users to view predefined spending categories with names, assigned colors, monthly budget limits and spent amounts.
 - Expense Tracking: Loads and displays expenses from demo JSON data, including expense title, amount, category, date, and payment type.
