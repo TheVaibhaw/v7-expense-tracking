@@ -1,5 +1,5 @@
 # **App Name**: ZenFlow
-
+ 
 ## Core Features:
 
 - Dashboard Overview: Presents a clear, card-based view of total income, expenses, remaining budget, and top spending category.
