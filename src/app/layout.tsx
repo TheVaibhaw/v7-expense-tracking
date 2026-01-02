@@ -4,7 +4,7 @@ import { Toaster } from "@/components/ui/toaster";
 
 export const metadata: Metadata = {
   title: 'V7 Expense Tracking',
-  description: 'Profeesional Expense Tracking for Indian Users',
+  description: 'Professional Expense Tracking for Indian Users',
 };
 
 export default function RootLayout({
